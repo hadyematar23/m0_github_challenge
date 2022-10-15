@@ -1,7 +1,2 @@
 # GitHub Steps
-
-Describe in your own words how to establish a connection between a local repository and a remote repository on GitHub.
-
-test 
-
-This is my second test. Forgot this is public. Need to be careful with my test prompts 
+I am testing this at 8 pm on Friday night 
